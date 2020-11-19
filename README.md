@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello, there! :robot:
+🌱 I’m a student who is passionate about Infosec and finds interests in DevOps and Software Development.
 
-<!--
-**Auror007/Auror007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Auror007&langs_count=8)
 -->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Auror007&count_private=true)
+
+
+#### My other interests include
+   * Skywatching ans astronomy :milky_way:
+   * Bird watching :bird:
+   * Table tennis :tennis:
+   * Video Games :video_game:
+   
+#### 📫 How to reach me: 
+  - [LinkedIn](https://www.linkedin.com/in/parth-parmar-8aa318108/)
+  - [Twitter](https://twitter.com/Parth97531)
+
+⚡ Fun fact: If you are using linux, there is a file named "[" in your /usr/bin direcotry
