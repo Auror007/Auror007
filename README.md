@@ -7,7 +7,7 @@
 
 
 #### My other interests include
-   * Skywatching ans astronomy :milky_way:
+   * Skywatching and astronomy :milky_way:
    * Bird watching :bird:
    * Table tennis :tennis:
    * Video Games :video_game:
