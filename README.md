@@ -16,4 +16,4 @@
   - [LinkedIn](https://www.linkedin.com/in/parth-parmar-8aa318108/)
   - [Twitter](https://twitter.com/Parth97531)
 
-⚡ Fun fact: If you are using linux, there is a file named "[" in your /usr/bin direcotry
+⚡ Fun fact: If you are using linux, there is a file named "[" in your /usr/bin directory
