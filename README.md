@@ -3,7 +3,7 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Auror007&langs_count=8)
 -->
-![Parth's github stats](https://github-readme-stats.vercel.app/api?username=Auror007)
+![Parth's github stats](https://github-readme-stats.vercel.app/api?username=Auror007&include_private=true)
 
 
 #### My other interests include
